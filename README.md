@@ -1,4 +1,9 @@
 # swipepay-wallet-api
+---------------------
+An API that is used by a mobile app.
+The API interacts with a database and external billing vendors to allow the a user to manage their bills/utilities that they would like to pay. The API will also interact with various crypto networks and exchanges to allow you to pay a utility with a digital currency. (That part was a WIP, so not complete).
+
+
 
 SDKs in use are:
 - oracle java 1.8.0
